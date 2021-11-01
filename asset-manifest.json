@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/geckos/static/css/main.d5f5cedc.chunk.css",
-    "main.js": "/geckos/static/js/main.b1a2a703.chunk.js",
-    "main.js.map": "/geckos/static/js/main.b1a2a703.chunk.js.map",
+    "main.js": "/geckos/static/js/main.55bcd998.chunk.js",
+    "main.js.map": "/geckos/static/js/main.55bcd998.chunk.js.map",
     "runtime-main.js": "/geckos/static/js/runtime-main.17faba59.js",
     "runtime-main.js.map": "/geckos/static/js/runtime-main.17faba59.js.map",
     "static/js/2.0eb4b6c4.chunk.js": "/geckos/static/js/2.0eb4b6c4.chunk.js",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.17faba59.js",
     "static/js/2.0eb4b6c4.chunk.js",
     "static/css/main.d5f5cedc.chunk.css",
-    "static/js/main.b1a2a703.chunk.js"
+    "static/js/main.55bcd998.chunk.js"
   ]
 }
