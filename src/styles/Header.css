@@ -1,0 +1,13 @@
+header {
+  position: relative;
+  overflow: hidden;
+}
+
+header img {
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  transform: translate(-50%, -20%);
+  min-width: 100%;
+  min-height: 100%;
+}

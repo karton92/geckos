@@ -1,0 +1,15 @@
+ul {
+  list-style: none;
+}
+li {
+  margin: 10px 0;
+}
+
+li a {
+  text-decoration-line: none;
+  color: black;
+}
+
+li a:hover {
+  font-weight: bold;
+}
