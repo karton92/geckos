@@ -10,7 +10,7 @@ import Footer from "./Footer";
 class App extends Component {
   render() {
     return (
-      <Router basename={process.env.PUBLIC_URL}>
+      <Router basename="/#">
         <div className="app">
           <header>{<Header />}</header>
           <main>
